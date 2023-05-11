@@ -15,12 +15,12 @@ enableInlineShortcodes = true
 [params]
 author = "Nusser Studios"
 authorimage = "../assets/images/global/author.webp"
-github = "https://github.com/nusserstudios"
+github = "https://github.com/xxchezyxx"
 facebook = "https://facebook.com/nusserstudios"
 og_image = "/images/tailbliss-cover.png"
 sitename = "TailBliss"
-twitter = "@nusserstudios"
-description = "TailBliss is Hugo Starter"
+twitter = "@xxchezyxx"
+description = "Welcome to my portfolio!"
 
 [markup]
 [markup.goldmark]
